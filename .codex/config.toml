@@ -1,0 +1,11 @@
+# 이 저장소는 코드 실행이 아닌 Harness 구조 학습용 예시입니다.
+approval_policy = "on-request"
+sandbox_mode = "workspace-write"
+
+# MCP Server를 실제로 연결할 때만 아래 형식을 사용합니다.
+# [mcp_servers.company_docs]
+# url = "https://example.com/mcp"
+# enabled_tools = ["search_documents", "read_document"]
+# disabled_tools = ["delete_document"]
+# default_tools_approval_mode = "prompt"
+

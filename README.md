@@ -9,3 +9,5 @@
 ```
 
 Router는 답변을 모두 만들지 않습니다. 요청을 분류하고 선택된 담당 역할에 필요한 입력만 전달합니다.
+
+코드 실행 저장소가 아닙니다. [HARNESS-STRUCTURE.md](HARNESS-STRUCTURE.md)부터 열어 이 패턴의 역할·Contract·Policy·Tool·Skill 구성을 확인합니다.
